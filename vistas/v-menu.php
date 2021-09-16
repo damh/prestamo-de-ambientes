@@ -27,7 +27,7 @@
 <div class="cuerpo">
   <div class="for1">
     <a href="controladores/c-historial.php">Historial</a>
-    <a href="controladores/c-prestamo.php">Prestar ambientes</a>
+    <a href="controladores/c-prestamo.php">Prestamo ambientes</a>
   </div>
     
   <div class="formularios">
